@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/Hloniphile1986/nodejs-ex.git"
+    "url": "http://github.com/openshift/nodejs-ex.git"
   },
   "author": "Steve Speicher <sspeiche@gmail.com>",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "http://github.com/Hloniphile1986/nodejs-ex/issues"
+    "url": "http://github.com/openshift/nodejs-ex/issues"
   },
-  "homepage": "http://github.com/Hloniphile1986/nodejs-ex"
+  "homepage": "http://github.com/openshift/nodejs-ex"
 }
